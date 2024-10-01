@@ -1,5 +1,5 @@
 <h1>Canvas Downloader</h1>
-As the name implies, this is a tool made mostly thanks to my laziness when it comes to downloading <b>lots</b> of files for college <i>plus learning how to work with an API...</i><br>
+As the name implies, this is a tool made mostly thanks to my laziness when it comes to downloading <b>lots</b> of files for college <i>plus practicing API usage...</i><br>
 By default it skips any file that isn't a .pdf or .docx but it's easy to change. 
 
 <h2>How to use</h2>
